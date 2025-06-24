@@ -1,5 +1,8 @@
 # Arm-Force-Field
-Repository for code related to the Arm Force Field Method
+This is a repository for materials and code related to the Arm Force Field Method
+
+## Citation
+If you use this code or method, please cite the original publication:
 
 Nicholas J. La Delfa, Jim R. Potvin,
 The ‘Arm Force Field’ method to predict manual arm strength based on only hand location and force direction,
